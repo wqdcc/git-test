@@ -1868,3 +1868,15 @@ Mars Cheng
 Mars Cheng
 Mars Cheng
 lvguiqiang
+
+commit dc513524f8e71665b9fede41a06e7bfc1199c13c
+Author: Tutu Wang <wangqi@admaster.com.cn>
+Date:   Tue Feb 14 15:15:24 2012 +0800
+
+    update file: git-rock
+
+commit 5cbbf96c5847ebca183a7ea5c3ce8492a79898c1
+Author: Tutu Wang <wangqi@admaster.com.cn>
+Date:   Tue Feb 14 15:11:34 2012 +0800
+
+    update file: foo
